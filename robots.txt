@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oltd.github.io/dose/sitemap.xml
